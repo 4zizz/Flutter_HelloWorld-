@@ -30,13 +30,13 @@ class MyHomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Hello World App'),
+        title: const Text('Hello Flutter App'),
         backgroundColor: Colors.deepPurple,
         foregroundColor: Colors.white,
       ),
       body: const Center(
         child: Text(
-          'Hello World!',
+          'Hello, Flutter',
           style: TextStyle(
             fontSize: 30,
             fontWeight: FontWeight.bold,
