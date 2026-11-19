@@ -1,6 +1,6 @@
-# Hello World App (Flutter)
+# Hello Flutter App
 
-Aplikasi Flutter sederhana yang menampilkan teks **"Hello World!"** di tengah layar dengan tema Material 3. Project ini dibuat sebagai latihan dasar pada mata kuliah Pemrograman Perangkat Bergerak (PPB).
+Aplikasi Flutter sederhana yang menampilkan teks **"Hello, Flutter"** di tengah layar dengan tema Material 3. Project ini dibuat sebagai latihan dasar pada mata kuliah Pemrograman Perangkat Bergerak (PPB).
 
 ## Fitur
 
